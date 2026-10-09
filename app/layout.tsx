@@ -2,8 +2,8 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Lycoris Specimen",
-  description: "A scroll-scrubbed type specimen around a red chrome spider lily.",
+  title: "CEO of Your Life — K'Chelle",
+  description: "The no-fluff playbook for running your life like a company. A new ebook by K'Chelle.",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
